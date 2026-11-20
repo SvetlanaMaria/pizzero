@@ -1,0 +1,6 @@
+{
+  "name": "Forno Vivo",
+  "description": "Configurador artesanal de pizzas a la leña con cálculo nutricional, masas madre e ingredientes en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
